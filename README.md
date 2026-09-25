@@ -6,3 +6,5 @@
 <img width="1176" height="553" alt="image" src="https://github.com/user-attachments/assets/2d3aec72-a781-4a2c-bc8a-c23c4e553131" />
 
 
+3.Conditional Expressions dan Loops
+<img width="1131" height="604" alt="image" src="https://github.com/user-attachments/assets/ef72974b-04f8-4dfa-a0fd-af0f88967479" />
