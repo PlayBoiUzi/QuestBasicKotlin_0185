@@ -8,3 +8,6 @@
 
 3.Conditional Expressions dan Loops
 <img width="1131" height="604" alt="image" src="https://github.com/user-attachments/assets/ef72974b-04f8-4dfa-a0fd-af0f88967479" />
+
+4.Functions
+<img width="1205" height="643" alt="image" src="https://github.com/user-attachments/assets/b4911a83-9fd6-4cfd-8ba1-f27c32f47c29" />
