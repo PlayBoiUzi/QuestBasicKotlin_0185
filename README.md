@@ -15,4 +15,7 @@
 5.Class dan Data Classes
 <img width="1140" height="548" alt="image" src="https://github.com/user-attachments/assets/2f804864-0350-4929-b997-d0790d1ea8e9" />
 
+6.Null Safety
+<img width="1134" height="519" alt="image" src="https://github.com/user-attachments/assets/3aae47a3-44a5-445a-8026-73d9b4d2fd49" />
+
 
